@@ -1,7 +1,7 @@
 # opencv-examples-with-cpp
 
 # Opencv Settings
-### IDE: Microsoft Visual Studio C++ 2010 Express
+### IDE: Microsoft Visual C++ 2010 Express
 ### Opencv Version: 2.4.10
 ----
 `Project -> Properties -> Configuration Properties -> VC++ Directories -> Include Directories:`
