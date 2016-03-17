@@ -28,3 +28,4 @@ opencv_imgproc2410d.lib
 PATH=C:\Program Files (x86)\opencv\build\x86\vc10\bin;%PATH%
 ```
 ----
+ 
