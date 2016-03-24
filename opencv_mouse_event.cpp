@@ -35,10 +35,12 @@ int main()
 	img = imread("img.bmp", CV_LOAD_IMAGE_UNCHANGED);
 	if(!img.data)
 	{
-		cout << "Can't open or find image!!" << endl;
+		cout << "Can't open/find image!!" << endl;
 		system("pause");
 		return -1;
 	}
+	
+	cout << "Right click on the image, then will show the position and color of the point." << endl;
 
 	namedWindow("img", CV_WINDOW_AUTOSIZE);
 	
