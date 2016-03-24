@@ -1,0 +1,5 @@
+Debug/
+*.bmp
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
