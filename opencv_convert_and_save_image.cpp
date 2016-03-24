@@ -19,7 +19,7 @@ int main()
 	img = imread(imgName, CV_LOAD_IMAGE_COLOR);
 	if(!img.data)
 	{
-		cout << "Can't open or find image!!" << endl;
+		cout << "Can't open/find image!!" << endl;
 		system("pause");
 		return -1;
 	}
