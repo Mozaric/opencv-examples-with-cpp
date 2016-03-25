@@ -16,7 +16,7 @@ int main()
 	}
 	
 	//put text on img
-	putText(img, "This is a image.", Point(30, 30), FONT_HERSHEY_COMPLEX, 0.75, Scalar(255, 255, 255));
+	putText(img, "This is an image.", Point(30, 30), FONT_HERSHEY_COMPLEX, 0.75, Scalar(255, 255, 255));
 	
 	namedWindow("img", CV_WINDOW_AUTOSIZE);
 	imshow("img", img);
